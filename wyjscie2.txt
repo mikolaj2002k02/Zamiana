@@ -1,0 +1,3 @@
+Plik zerowy min: -6
+Plik pierwszy min:-23
+Plik drugi min:-75
